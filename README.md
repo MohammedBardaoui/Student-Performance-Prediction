@@ -79,20 +79,21 @@ Interactive dashboard visualizing performance trends:
 ---
 
 ## 📁 Project Structure
+```
 Student_Performance_Project/
 │
 ├── data_preparation/
-│ ├── data/ # Raw dataset
-│ └── data_preparation.ipynb
+│   ├── data/                     # Raw dataset
+│   └── data_preparation.ipynb
 │
 ├── regression/
-│ ├── data/ # Data prepared for regression
-│ └── regression_models.ipynb
+│   ├── data/                     # Data prepared for regression
+│   └── regression_models.ipynb
 │
 └── classification/
-├── data/ # Data prepared for classification
-└── classification_models.ipynb
-
+│   ├── data/                     # Data prepared for classification
+│   └── classification_models.ipynb
+```
 
 ---
 
